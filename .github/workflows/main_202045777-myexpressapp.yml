@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: '202045777-MyExpressApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_952E69D04B864ED9AFA95FB354A4F99E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B9E04C60A72448383CF56F803EA52CA }}
           package: .
